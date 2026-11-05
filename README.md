@@ -32,3 +32,19 @@ Abrir el cuaderno en Google Colab y usar *Entorno de ejecución > Reiniciar sesi
 
 ## Declaración de uso de IA
 Utilicé ChatGPT para ayudarme a organizar las ideas y completar la información de mi proyecto. Revisé las respuestas y las adapté a lo que quiero lograr con MADÚ.
+
+## Supuestos y limitaciones
+
+Supuesto 1  Precios y promociones publicados
+Suponemos que los precios y promociones publicados por la competencia están vigentes durante el mes en que los registramos.
+
+Supuesto 2  Interés reflejado en redes sociales
+Suponemos que los comentarios, las reacciones y las búsquedas reflejan interés en ciertos cursos, aunque no garantizan compras.
+
+Limitación  Información pública disponible
+Solo analizaremos información pública; no conoceremos las ventas ni las inscripciones reales de la competencia.
+
+Por qué importa para el decisor?
+Esto ayuda a la propietaria de MADÚ a comparar precios y elegir qué cursos probar primero, sin confundir popularidad con ventas. Antes de invertir, podrá confirmar el interés con una encuesta o preventa.
+
+
